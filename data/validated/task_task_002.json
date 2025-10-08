@@ -1,0 +1,11 @@
+{
+  "task_id": "task_002",
+  "result": {
+    "hand": "KKxx",
+    "equity": 0.6
+  },
+  "validated_by_files": [
+    "calc_B_user1.json",
+    "calc_B_user2.json"
+  ]
+}
