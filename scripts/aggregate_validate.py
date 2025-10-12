@@ -2,6 +2,9 @@ import os
 import json
 import hashlib
 
+## This file seems to have smart content. Note to self. Copy the idea! #-NtS-#
+## #-NtS-# means note to self. Easier to find with tags.
+
 DATA_RAW_DIR = '../data/raw'
 DATA_VALIDATED_DIR = '../data/validated'
 DATA_AGGREGATED_DIR = '../data/aggregated'
