@@ -1,3 +1,6 @@
+
+NOT INFILTRATING OTHERS MACHINES. I WILL DO A TOTAL REMAKE OF ALL THIS SCRIPTING THING
+
 # Secure Data Ingestion Method for Omaha Preflop Equities Project
 
 This document outlines a secure and robust method for ingesting calculation results from distributed participant machines into the central project data stores. Given the distributed nature of the calculations and the need for data integrity and security, especially regarding credentials, a multi-tiered approach is proposed.
