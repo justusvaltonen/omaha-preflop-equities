@@ -1,3 +1,7 @@
+
+## This will get a tootal remake. Maybe just delete alltogether.
+#-NtS-# Delete this page
+
 # Project Workflow and Security Considerations for Omaha Preflop Equities
 
 This document details the overall workflow for the Omaha Preflop Equities distributed calculation project and consolidates key security considerations to ensure data integrity, participant privacy, and robust operation.

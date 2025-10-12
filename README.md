@@ -1,4 +1,12 @@
+
+There were things that made me second guess my decicions. AI admitted to a mistake that initially lead to tech stack decicion. Presented a better solution, did not bug out and life continued. Now I don't have to do just about anything, because AI is nailing it, at least to the degree what this project requires. Plan is to keep doing things in parallel. By poking the chosen AI from time to time, I wish it to gain autonomy.
+
+I'm keeping some texts as a memory and ideabank. Filestructure seems solid... even though I'm missing one of the features :D
+
+The project will live and reform drastically I hope. Thing in mind is to actually make something cool. Who has the ownership of the code? AI has done most of the writing. Even the ideas seem to come from it?!
+
 # Omaha Preflop Equities - Distributed Calculation Project
+"-Missing systematic indexing. Makes things hard. But when I get things 500X faster, there is no need for parallellism."
 
 A collaborative project for calculating Omaha poker preflop equities through distributed computing. This project enables multiple participants to contribute computational power to solve complex equity calculations that would take weeks on a single machine.
 
@@ -7,6 +15,7 @@ A collaborative project for calculating Omaha poker preflop equities through dis
 This project aims to calculate comprehensive Omaha preflop equities with maximum accuracy. The calculations are distributed across multiple devices/users, with results automatically synchronized through secure channels.
 
 ### Key Features
+"-Some doublechecking feature needs to be implemented. No credentials at the moment. To automate, there will be."
 
 - **Distributed Computing**: Calculations are split across multiple participants
 - **Automatic Synchronization**: Results are automatically downloaded and synchronized
@@ -31,7 +40,7 @@ omaha-preflop-equities/
 ## Getting Started
 
 ### For Participants
-
+"-Clone the master branch if some. This is not going to be ready for a few days"
 1. Clone this repository
 2. Set up your local environment (instructions in `docs/setup.md`)
 3. Configure your data sync settings (see `docs/sync-setup.md`)
